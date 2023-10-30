@@ -16,4 +16,6 @@ Welcome to my 100-day coding journey! My goal is to explore the fascinating worl
 
 Every error is a lesson, and every success is a milestone. Remember, it's okay to take it one step at a time. Stay curious, stay persistent, and most importantly, keep coding! Your journey in the world of programming has just begun. Happy coding! 🚀
 
+[Take a Glimpse into My World of NFT & AI Art](https://www.instagram.com/we3nesday/)
+
 [Markdown Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/)
