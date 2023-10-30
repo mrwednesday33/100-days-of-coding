@@ -1,6 +1,6 @@
 # 100 Days of Coding Journey
 
-Welcome to my 100-day coding journey! 🚀 My goal is to explore the fascinating worlds of HTML, CSS, JavaScript, and Python. No rush, no pressure, just the joy of learning and building.
+Welcome to my 100-day coding journey! My goal is to explore the fascinating worlds of HTML, CSS, JavaScript, and Python. No rush, no pressure, just the joy of learning and building.
 
 ## Goals
 
@@ -14,4 +14,6 @@ Welcome to my 100-day coding journey! 🚀 My goal is to explore the fascinating
 
 ## Embracing the Journey
 
-Every error is a lesson, and every success is a milestone. Remember, it's okay to take it one step at a time. Stay curious, stay persistent, and most importantly, keep coding! Your journey in the world of programming has just begun. Happy coding! 😊🚀
+Every error is a lesson, and every success is a milestone. Remember, it's okay to take it one step at a time. Stay curious, stay persistent, and most importantly, keep coding! Your journey in the world of programming has just begun. Happy coding! 🚀
+
+[Markdown Basic Syntax Guide](https://www.markdownguide.org/basic-syntax/)
