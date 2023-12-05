@@ -1,16 +1,14 @@
 # 100 Days of Coding Journey
 
-Welcome to my 100-day coding journey! My goal is to explore the fascinating worlds of HTML, CSS, JavaScript, and Python. No rush, no pressure, just the joy of learning and building.
+Welcome to my 100-day coding journey! This project focuses on mastering HTML, CSS, and JavaScript, with a special interest in creating engaging web designs and dynamic functionalities.
 
 ## Goals
 
-🌟 **Learn the Basics**: Master the fundamentals of HTML, CSS, and JavaScript. Understand their core concepts and syntax.
+🌟 **Master Web Basics**: Delve into HTML, CSS, and JavaScript fundamentals. Understand core concepts to enhance coding skills.
 
-🎨 **Create Stunning Designs**: Dive into CSS to craft visually appealing and responsive web designs.
+🎨 **Craft Engaging Designs**: Dive into CSS for visually appealing and responsive web designs.
 
-💡 **Build Interactivity**: Explore JavaScript to make my websites interactive and dynamic, enhancing user experiences.
-
-🐍 **Master Python**: Delve into Python programming, from basic syntax to advanced concepts. Learn its versatility and power.
+💡 **Build Dynamic Websites**: Explore JavaScript to add interactivity and dynamism to web projects.
 
 ## Embracing the Journey
 
